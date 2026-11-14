@@ -1,0 +1,17 @@
+# Binaries & Outputs
+*.exe
+*.dll
+*.pdb
+*.obj
+*.lnk
+*.log
+
+# Windows & IDE artifacts
+.vs/
+bin/
+obj/
+*.suo
+*.user
+Thumbs.db
+ehthumbs.db
+Desktop.ini
