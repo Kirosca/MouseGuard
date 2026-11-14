@@ -4,6 +4,8 @@ Windows 平台物理鼠标守护工具。在系统底层拦截非硬件生成的
 
 A Windows utility to block synthetic mouse movements and prevent unauthorized cursor control.
 
+[下载最新版本 (Download Latest Release)](https://github.com/Kirosca/MouseGuard/releases/latest)
+
 ---
 
 ## 简体中文
